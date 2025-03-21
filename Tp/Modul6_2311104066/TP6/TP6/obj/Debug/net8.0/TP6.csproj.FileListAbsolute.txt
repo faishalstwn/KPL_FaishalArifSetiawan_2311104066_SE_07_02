@@ -1,0 +1,15 @@
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\bin\Debug\net8.0\TP6.exe
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\bin\Debug\net8.0\TP6.deps.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\bin\Debug\net8.0\TP6.runtimeconfig.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\bin\Debug\net8.0\TP6.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\bin\Debug\net8.0\TP6.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.AssemblyInfoInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.AssemblyInfo.cs
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.csproj.CoreCompileInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.sourcelink.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\refint\TP6.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\TP6.genruntimeconfig.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\Tp\Modul6_2311104066\TP6\TP6\obj\Debug\net8.0\ref\TP6.dll
