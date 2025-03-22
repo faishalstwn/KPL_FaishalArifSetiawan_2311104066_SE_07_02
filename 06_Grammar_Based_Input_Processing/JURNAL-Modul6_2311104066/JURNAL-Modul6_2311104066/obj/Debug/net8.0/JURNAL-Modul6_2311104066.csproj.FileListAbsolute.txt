@@ -1,0 +1,15 @@
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.AssemblyInfoInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.AssemblyInfo.cs
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.csproj.CoreCompileInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.sourcelink.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\bin\Debug\net8.0\JURNAL-Modul6_2311104066.exe
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\bin\Debug\net8.0\JURNAL-Modul6_2311104066.deps.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\bin\Debug\net8.0\JURNAL-Modul6_2311104066.runtimeconfig.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\bin\Debug\net8.0\JURNAL-Modul6_2311104066.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\bin\Debug\net8.0\JURNAL-Modul6_2311104066.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\refint\JURNAL-Modul6_2311104066.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\JURNAL-Modul6_2311104066.genruntimeconfig.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\06_Grammar_Based_Input_Processing\JURNAL-Modul6_2311104066\JURNAL-Modul6_2311104066\obj\Debug\net8.0\ref\JURNAL-Modul6_2311104066.dll
