@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\Tpmodul8_2311104066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C75D42E5-81B3-4198-81E1-1A498C0CFFB6}|Tpmodul8_2311104066\\Tpmodul8_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\08_api_design_and_usage\\tpmodul8_2311104066\\tpmodul8_2311104066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75D42E5-81B3-4198-81E1-1A498C0CFFB6}|Tpmodul8_2311104066\\Tpmodul8_2311104066.csproj|solutionrelative:tpmodul8_2311104066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\Downloads\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75D42E5-81B3-4198-81E1-1A498C0CFFB6}|Tpmodul8_2311104066\\Tpmodul8_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\08_api_design_and_usage\\tpmodul8_2311104066\\tpmodul8_2311104066\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75D42E5-81B3-4198-81E1-1A498C0CFFB6}|Tpmodul8_2311104066\\Tpmodul8_2311104066.csproj|solutionrelative:tpmodul8_2311104066\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\covid_config.json",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T12:09:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\Tpmodul8_2311104066\\Tpmodul8_2311104066\\Program.cs",
+              "RelativeDocumentMoniker": "Tpmodul8_2311104066\\Program.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\Tpmodul8_2311104066\\Tpmodul8_2311104066\\Program.cs",
+              "RelativeToolTip": "Tpmodul8_2311104066\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:05:49.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\Tpmodul8_2311104066\\Tpmodul8_2311104066\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "Tpmodul8_2311104066\\CovidConfig.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\Tpmodul8_2311104066\\Tpmodul8_2311104066\\CovidConfig.cs",
+              "RelativeToolTip": "Tpmodul8_2311104066\\CovidConfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:03:39.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
