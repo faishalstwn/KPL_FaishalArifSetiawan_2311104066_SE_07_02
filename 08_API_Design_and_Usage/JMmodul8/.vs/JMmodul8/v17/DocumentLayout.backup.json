@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\JMmodul8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978940B5-9D22-407F-8F01-621B55872389}|JMmodul8\\JMmodul8.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\08_api_design_and_usage\\jmmodul8\\jmmodul8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978940B5-9D22-407F-8F01-621B55872389}|JMmodul8\\JMmodul8.csproj|solutionrelative:jmmodul8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978940B5-9D22-407F-8F01-621B55872389}|JMmodul8\\JMmodul8.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\08_api_design_and_usage\\jmmodul8\\jmmodul8\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978940B5-9D22-407F-8F01-621B55872389}|JMmodul8\\JMmodul8.csproj|solutionrelative:jmmodul8\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\JMmodul8\\JMmodul8\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "JMmodul8\\BankTransferConfig.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\JMmodul8\\JMmodul8\\BankTransferConfig.cs",
+              "RelativeToolTip": "JMmodul8\\BankTransferConfig.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:22:51.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\JMmodul8\\JMmodul8\\Program.cs",
+              "RelativeDocumentMoniker": "JMmodul8\\Program.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\08_API_Design_and_Usage\\JMmodul8\\JMmodul8\\Program.cs",
+              "RelativeToolTip": "JMmodul8\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:22:12.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

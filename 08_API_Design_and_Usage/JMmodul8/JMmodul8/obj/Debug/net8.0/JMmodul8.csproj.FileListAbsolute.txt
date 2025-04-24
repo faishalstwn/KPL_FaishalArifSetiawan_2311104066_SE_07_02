@@ -1,0 +1,15 @@
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\bin\Debug\net8.0\JMmodul8.exe
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\bin\Debug\net8.0\JMmodul8.deps.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\bin\Debug\net8.0\JMmodul8.runtimeconfig.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\bin\Debug\net8.0\JMmodul8.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\bin\Debug\net8.0\JMmodul8.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.AssemblyInfoInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.AssemblyInfo.cs
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.csproj.CoreCompileInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.sourcelink.json
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\refint\JMmodul8.dll
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.pdb
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\JMmodul8.genruntimeconfig.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\08_API_Design_and_Usage\JMmodul8\JMmodul8\obj\Debug\net8.0\ref\JMmodul8.dll
