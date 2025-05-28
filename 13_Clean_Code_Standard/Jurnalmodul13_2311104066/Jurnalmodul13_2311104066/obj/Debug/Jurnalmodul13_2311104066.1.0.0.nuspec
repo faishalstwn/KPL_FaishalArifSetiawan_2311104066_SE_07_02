@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Jurnalmodul13_2311104066</id>
+    <version>1.0.0</version>
+    <authors>Jurnalmodul13_2311104066</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9d4b0f5b7f9c3efe0fec00cd9f66e0724bc9eff6" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\13_Clean_Code_Standard\Jurnalmodul13_2311104066\Jurnalmodul13_2311104066\bin\Debug\net8.0\Jurnalmodul13_2311104066.runtimeconfig.json" target="lib\net8.0\Jurnalmodul13_2311104066.runtimeconfig.json" />
+    <file src="D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\13_Clean_Code_Standard\Jurnalmodul13_2311104066\Jurnalmodul13_2311104066\bin\Debug\net8.0\Jurnalmodul13_2311104066.dll" target="lib\net8.0\Jurnalmodul13_2311104066.dll" />
+  </files>
+</package>
