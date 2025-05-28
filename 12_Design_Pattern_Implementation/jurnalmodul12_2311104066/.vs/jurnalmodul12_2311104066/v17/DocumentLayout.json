@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABFC14C-757F-4E52-89CB-6E904B0731E8}|jurnalmodul12_2311104066.Tests\\jurnalmodul12_2311104066.Tests.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\12_design_pattern_implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066.tests\\form1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABFC14C-757F-4E52-89CB-6E904B0731E8}|jurnalmodul12_2311104066.Tests\\jurnalmodul12_2311104066.Tests.csproj|solutionrelative:jurnalmodul12_2311104066.tests\\form1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\12_design_pattern_implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|solutionrelative:jurnalmodul12_2311104066\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\12_design_pattern_implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|solutionrelative:jurnalmodul12_2311104066\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\12_design_pattern_implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}|jurnalmodul12_2311104066\\jurnalmodul12_2311104066.csproj|solutionrelative:jurnalmodul12_2311104066\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1Tests.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066.Tests\\Form1Tests.cs",
+              "RelativeDocumentMoniker": "jurnalmodul12_2311104066.Tests\\Form1Tests.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066.Tests\\Form1Tests.cs",
+              "RelativeToolTip": "jurnalmodul12_2311104066.Tests\\Form1Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:38:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "jurnalmodul12_2311104066\\Form1.Designer.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.Designer.cs",
+              "RelativeToolTip": "jurnalmodul12_2311104066\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:36:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.cs",
+              "RelativeDocumentMoniker": "jurnalmodul12_2311104066\\Form1.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.cs",
+              "RelativeToolTip": "jurnalmodul12_2311104066\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:36:01.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.cs",
+              "RelativeDocumentMoniker": "jurnalmodul12_2311104066\\Form1.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\12_Design_Pattern_Implementation\\jurnalmodul12_2311104066\\jurnalmodul12_2311104066\\Form1.cs [Design]",
+              "RelativeToolTip": "jurnalmodul12_2311104066\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:35:28.613Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

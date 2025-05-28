@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jurnalmodul12_2311104066", "jurnalmodul12_2311104066\jurnalmodul12_2311104066.csproj", "{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jurnalmodul12_2311104066.Tests", "jurnalmodul12_2311104066.Tests\jurnalmodul12_2311104066.Tests.csproj", "{1ABFC14C-757F-4E52-89CB-6E904B0731E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3082FD26-50D2-4E11-8380-1E8ED5BFB3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABFC14C-757F-4E52-89CB-6E904B0731E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABFC14C-757F-4E52-89CB-6E904B0731E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABFC14C-757F-4E52-89CB-6E904B0731E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABFC14C-757F-4E52-89CB-6E904B0731E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE672AE9-302D-4A1C-9C53-8348EEE8AE21}
+	EndGlobalSection
+EndGlobal
