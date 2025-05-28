@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\14_Secure_Coding_Practice\\tpmodul14_2311104066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15F974-913F-4BF8-AC1C-0B1676E996BA}|tpmodul14_2311104066\\tpmodul14_2311104066.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\14_secure_coding_practice\\tpmodul14_2311104066\\tpmodul14_2311104066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15F974-913F-4BF8-AC1C-0B1676E996BA}|tpmodul14_2311104066\\tpmodul14_2311104066.csproj|solutionrelative:tpmodul14_2311104066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\14_Secure_Coding_Practice\\tpmodul14_2311104066\\tpmodul14_2311104066\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul14_2311104066\\Program.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\14_Secure_Coding_Practice\\tpmodul14_2311104066\\tpmodul14_2311104066\\Program.cs",
+              "RelativeToolTip": "tpmodul14_2311104066\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:23:11.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
