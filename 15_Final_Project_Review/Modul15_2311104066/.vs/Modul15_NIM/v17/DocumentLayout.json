@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\15_final_project_review\\modul15_2311104066\\services\\secureuserdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|solutionrelative:services\\secureuserdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\15_final_project_review\\modul15_2311104066\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\15_final_project_review\\modul15_2311104066\\models\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|solutionrelative:models\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\15_final_project_review\\modul15_2311104066\\features\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|solutionrelative:features\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|d:\\kpl smt 4\\kpl_faishalarifsetiawan_2311104066_se_07_02\\15_final_project_review\\modul15_2311104066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993E7D8-F5D3-233A-DAC7-DA34D1026A59}|Modul15_NIM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:45:52.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Models\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "Models\\DoorMachine.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Models\\DoorMachine.cs",
+              "RelativeToolTip": "Models\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:45:51.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Features\\KodePos.cs",
+              "RelativeDocumentMoniker": "Features\\KodePos.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Features\\KodePos.cs",
+              "RelativeToolTip": "Features\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:45:45.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureUserDatabase.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Services\\SecureUserDatabase.cs",
+              "RelativeDocumentMoniker": "Services\\SecureUserDatabase.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Services\\SecureUserDatabase.cs",
+              "RelativeToolTip": "Services\\SecureUserDatabase.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:40:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KPL SMT 4\\KPL_FaishalArifSetiawan_2311104066_SE_07_02\\15_Final_Project_Review\\Modul15_2311104066\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:34:51.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

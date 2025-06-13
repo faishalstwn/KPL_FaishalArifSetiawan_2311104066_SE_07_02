@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul15_NIM/1.0.0": {
+        "runtime": {
+          "Modul15_NIM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul15_NIM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

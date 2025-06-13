@@ -1,0 +1,5 @@
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\15_Final_Project_Review\Modul15_2311104066\obj\Debug\net6.0\Modul15_2311104066.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\15_Final_Project_Review\Modul15_2311104066\obj\Debug\net6.0\Modul15_2311104066.AssemblyInfoInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\15_Final_Project_Review\Modul15_2311104066\obj\Debug\net6.0\Modul15_2311104066.AssemblyInfo.cs
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\15_Final_Project_Review\Modul15_2311104066\obj\Debug\net6.0\Modul15_2311104066.csproj.CoreCompileInputs.cache
+D:\KPL SMT 4\KPL_FaishalArifSetiawan_2311104066_SE_07_02\15_Final_Project_Review\Modul15_2311104066\obj\Debug\net6.0\Modul15_2311104066.sourcelink.json
